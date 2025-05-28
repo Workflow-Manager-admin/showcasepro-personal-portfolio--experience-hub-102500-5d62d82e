@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/showcasepro-personal-portfolio--experience-hub-102500-5d62d82e/showcasepro_portfolio"
+}
